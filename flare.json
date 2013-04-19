@@ -1,0 +1,275 @@
+{"name": "ChicagoCrimesParks",
+
+"children": [
+    {"name":"Austin", "crimes":"6889",
+  "children": [
+		{"name":"Amundsen Park", "size": "125"},
+		{"name":"Austin Park", "size": "125"},
+		{"name":"Austin Town Hall Park", "size": "200"},
+		{"name":"Clark (John) Park", "size": "325"},
+		{"name":"Columbus Park", "size": "625"},
+		{"name":"Cottonwood Playlot Park", "size": "25"},
+		{"name":"Davis Park", "size": "50"},
+		{"name":"De George Playlot Park", "size": "25"},
+		{"name":"Galewood Park", "size": "425"},
+		{"name":"Hazelnut Park", "size": "50"},
+		{"name":"Hubbard Playlot Park", "size": "25"},
+		{"name":"Kinzie Parkway Park", "size": "25"},
+		{"name":"La Follette Park", "size": "200"},
+		{"name":"Levin Park", "size": "100"},
+		{"name":"Moore Park", "size": "150"},
+		{"name":"Ohio Park", "size": "25"},
+		{"name":"Sweet Clover Playlot Park", "size": "25"}]}
+		
+    ,{"name":"Near North Side", "crimes":"6160",
+	"children": [
+		{"name":"Chicago Park District Administration Office", "size": "25"},
+		{"name":"Connors Park", "size": "25"},
+		{"name":"Durso Playlot Park", "size": "25"},
+		{"name":"Dusable Park", "size": "25"},
+		{"name":"Goudy Square Playlot Park", "size": "100"},
+		{"name":"Jane Addams Memorial Park", "size": "25"},
+		{"name":"Lake Shore Park", "size": "50"},
+		{"name":"Mariano Park", "size": "125"},
+		{"name":"Oak Street Beach", "size": "125"},
+		{"name":"Ogden Plaza Park", "size": "25"},
+		{"name":"Ohio Street Beach", "size": "50"},
+		{"name":"River Esplanade Park", "size": "25"},
+		{"name":"Seneca Playlot Park", "size": "25"},
+		{"name":"Seward Park", "size": "125"},
+		{"name":"Stanton Park", "size": "200"},
+		{"name":"Ward, A. Montgomery Park", "size": "50"},
+		{"name":"Washington Square Park", "size": "25"}]}
+		
+	,{"name":"West Town", "crimes":"5159",
+	"children": [
+		{"name":"Bickerdike Square Park", "size": "25"},
+		{"name":"Clemente Park", "size": "225"},
+		{"name":"Commercial Club Playground", "size": "425"},
+		{"name":"Dean Playground Park", "size": "125"},
+		{"name":"Eckhart Park", "size": "300"},
+		{"name":"Humboldt Park", "size": "75"},
+		{"name":"Maplewood Playlot Park", "size": "100"},
+		{"name":"Park No. 399", "size": "25"},
+		{"name":"Park No. 520", "size": "25"},
+		{"name":"Park No. 529", "size": "25"},
+		{"name":"Park No. 536", "size": "25"},
+		{"name":"Pulaski Park", "size": "225"},
+		{"name":"Smith Park", "size": "300"},
+		{"name":"Snowberry Playlot Park", "size": "25"},
+		{"name":"Superior Playlot Park", "size": "25"},
+		{"name":"Walsh Playground Park", "size": "125"},
+		{"name":"Western Park", "size": "25"},
+		{"name":"Wicker Park", "size":"125"}]}
+
+
+	,{"name":"Near West Side", "crimes":"4665",
+	"children": [
+		{"name":"Addams/Medill Park", "size": "100"},
+		{"name":"Arrigo Park", "size": "25"},
+		{"name":"Bartelme, Mary Park", "size": "50"},
+		{"name":"Claremont Playlot Park", "size": "50"},
+		{"name":"Ellen Gates Starr Park", "size": "25"},
+		{"name":"Fosco Park", "size": "150"},
+		{"name":"Garibaldi Playground Park", "size": "25"},
+		{"name":"Heritage Green Park", "size": "25"},
+		{"name":"Miller Playlot Park", "size": "25"},
+		{"name":"Park No.489", "size": "25"},
+		{"name":"Park No. 510", "size": "25"},
+		{"name":"Park No. 551", "size": "50"},
+		{"name":"Sain Park", "size": "25"},
+		{"name":"Sheridan Park", "size": "425"},
+		{"name":"Skinner Park", "size": "525"},
+		{"name":"Touhy-Herbert Park", "size": "100"},
+		{"name":"Union Park", "size": "300"}]}
+	
+	,{"name":"South Shore", "crimes":"4425",
+	"children": [
+		{"name":"Ashe Beach Park", "size": "125"},
+		{"name":"Chestnut Playlot Park", "size": "25"},
+		{"name":"Don Nash Community Center", "size": "225"},
+		{"name":"Essex Playlot Park", "size": "25"},
+		{"name":"Hasan Playlot Park", "size": "25"},
+		{"name":"Hodes Park", "size": "25"},
+		{"name":"Rainbow Beach Park", "size": "350"},
+		{"name":"South Shore Cultural Center", "size": "300"},
+		{"name":"Woodhull Playground Park", "size": "200"}]}
+		
+	,{"name":"Loop", "crimes":"4419",
+	"children": [
+		{"name":"Chicago Riverwalk", "size": "125"},
+		{"name":"Clarence F. Buckingham Memorial Fountain", "size": "25"},
+		{"name":"Dearborn Park", "size": "25"},
+		{"name":"Grant Park", "size": "825"},
+		{"name":"Lake Shore East Park/No. 546", "size": "225"},
+		{"name":"Pritzker Park", "size": "125"},
+		{"name":"Roosevelt Park", "size": "25"},
+		{"name":"Soldier Field", "size": "25"}]}
+		
+	,{"name":"Lake View", "crimes":"4184",
+	"children": [
+		{"name":"Challenger Playlot Park", "size": "25"},
+		{"name":"Chi Che Wang Playlot Park", "size": "25"},
+		{"name":"Evergreen Playlot Park", "size": "25"},
+		{"name":"Gill Park", "size": "325"},
+		{"name":"Juniper Playlot Park", "size": "50"},
+		{"name":"Kelly Playlot Park", "size": "100"},
+		{"name":"Kenmore Playlot Park", "size": "25"},
+		{"name":"Lois Klein Park", "size": "25"},
+		{"name":"Martin Playlot Park", "size": "25"},
+		{"name":"Merryman Playlot Park", "size": "25"},
+		{"name":"Park No. 521", "size": "25"},
+		{"name":"Sheil Park", "size": "225"},
+		{"name":"South Lakeview Playground Park", "size": "125"},
+		{"name":"Weisman Playlot Park", "size": "50"},
+		{"name":"Wendt Playlot Park", "size": "25"},
+		{"name":"Wieboldt Playlot Park", "size": "25"},
+		{"name":"Zatterberg Playlot Park", "size": "25"}]}
+		
+		
+	,{"name":"Humboldt Park", "crimes":"3644",
+	"children": [		
+		{"name":"Augusta Park", "size": "100"},
+		{"name":"Beilfuss Park", "size": "100"},
+		{"name":"Central Playlot Park", "size": "25"},
+		{"name":"Greenbaum Playlot Park", "size": "100"},
+		{"name":"Harding Playlot Park", "size": "25"},
+		{"name":"Kedvale Park", "size": "150"},
+		{"name":"Kells Playground Park", "size": "25"},
+		{"name":"Keystone Playlot Park", "size": "25"},
+		{"name":"Linden Playlot Park", "size": "25"},
+		{"name":"Ohio & Harding Park", "size": "25"},
+		{"name":"Orr Park", "size": "150"},
+		{"name":"Park No. 414", "size": "25"},
+		{"name":"Park No. 514", "size": "25"},
+		{"name":"Playlot Park No. 432", "size": "25"},
+		{"name":"Simons Park", "size": "200"},
+		{"name":"Snapping Turtle", "size": "25"}]}
+		
+		
+	,{"name":"Logan Square", "crimes":"3581",
+	"children": [		
+		{"name":"Churchill Field Playlot Park", "size": "125"},
+		{"name":"Erhler Playlot Park", "size": "25"},
+		{"name":"Flower (Lucy) Playlot Park", "size": "25"},
+		{"name":"Haas Park", "size": "200"},
+		{"name":"Holstein Park", "size": "200"},
+		{"name":"Julia De Burgos Park", "size": "25"},
+		{"name":"Kosciuszko Park", "size": "425"},
+		{"name":"Logan Blvd. Skate Park", "size": "25"},
+		{"name":"Maple Playlot Park", "size": "25"},
+		{"name":"Monticello Playlot Park", "size": "25"},
+		{"name":"Mozart Park", "size": "200"},
+		{"name":"Neighbors Garden Playlot Park", "size": "25"},
+		{"name":"Park No. 556", "size": "25"},
+		{"name":"Senior Citizens Memorial Playlot Park", "size": "25"},
+		{"name":"Unity Playlot Park", "size": "125"}]}
+		
+	,{"name":"West Englewood", "crimes":"3322",
+	"children": [		
+		{"name":"Drexel Playlot Park", "size": "125"},
+		{"name":"Hermitage Park", "size": "325"},
+		{"name":"Lindblom Park", "size": "200"},
+		{"name":"Murray Playground Park", "size": "200"},
+		{"name":"Ogden Park", "size": "350"},
+		{"name":"Playlot Park No. 437", "size": "25"},
+		{"name":"Wolcott Playlot Park", "size": "25"}]}
+		
+
+	,{"name":"Auburn Gresham", "crimes":"3163",
+	"children": [		
+		{"name":"Auburn Park", "size": "50"},
+		{"name":"Dawes Park", "size": "225"},
+		{"name":"Foster Park", "size": "125"},
+		{"name":"King (Dr. Martin Luther, Jr.) Park", "size":"125"},
+		{"name":"Mahalia Jackson Park", "size":"150"},
+		{"name":"Marshfield Park", "size":"25"},
+		{"name":"O'Hallaren Park", "size":"200"},
+		{"name":"Park No. 382", "size":"25"},
+		{"name":"Renaissance Park", "size":"25"},
+		{"name":"The Grove Playlot Park", "size":"25"}]}
+		
+		
+	,{"name":"Englewood", "crimes":"3155",
+	"children": [			
+		{"name":"Carpenter Playlot Park", "size":"25"},
+		{"name":"Edmonds Playlot Park", "size":"25"},
+		{"name":"Emerald Playlot Park", "size":"25"},
+		{"name":"Hamilton Park", "size":"200"},
+		{"name":"Harris Memorial Park", "size":"25"},
+		{"name":"Junction Grove Playlot Park", "size":"25"},
+		{"name":"Leland Giants Playlot Park", "size":"125"},
+		{"name":"Lily Gardens Park", "size":"25"},
+		{"name":"Lindblom Park", "size":"200"},
+		{"name":"Luna Playlot Park", "size":"25"},
+		{"name":"Memorial Playlot Park", "size":"125"},
+		{"name":"Moran Playground Park", "size":"225"},
+		{"name":"Ogden Park", "size":"350"},
+		{"name":"Sherwood Park", "size":"200"}]}
+		
+		
+	,{"name":"Roseland", "crimes":"3112",
+	"children": [			
+		{"name":"Abbott Park", "size":"300"},
+		{"name":"Block Park", "size":"25"},
+		{"name":"Cooper Park", "size":"150"},
+		{"name":"Fernwood Park", "size":"425"},
+		{"name":"Palmer Park", "size":"525"},
+		{"name":"Smith Playlot Park", "size":"225"}]}
+		
+	,{"name":"Lincoln Park", "crimes":"3068",
+	"children": [			
+		{"name":"Adams Playground Park", "size":"150"},
+		{"name":"Bauler Playlot Park", "size":"25"},
+		{"name":"Clover Playlot Park", "size":"50"},
+		{"name":"Clybourn Playlot Park", "size":"50"},
+		{"name":"Eugenie Triangle Park", "size":"25"},
+		{"name":"Jonquil Playlot Park", "size":"100"},
+		{"name":"Lincoln Park", "size":"250"},
+		{"name":"Lincoln Park Conservatory", "size":"100"},
+		{"name":"Lincoln Park Cultural Center", "size":"150"},
+		{"name":"Mid-North Park", "size":"25"},
+		{"name":"Noethling Playlot Park", "size":"25"},
+		{"name":"North Avenue Beach", "size":"150"},
+		{"name":"Oz Park", "size":"425"},
+		{"name":"Park No. 535", "size":"25"},
+		{"name":"Park West Playlot Park", "size":"25"},
+		{"name":"Privet Playlot Park", "size":"25"},
+		{"name":"Schaefer Playlot Park", "size":"50"},
+		{"name":"Supera Playlot Park", "size":"25"},
+		{"name":"Theater On The Lake", "size":"25"},
+		{"name":"Trebes Park", "size":"150"},
+		{"name":"Wrightwood Park", "size":"525"}]}
+
+
+	,{"name":"Greater Grand Crossing", "crimes":"3068",
+	"children": [			
+		{"name":"Adams Park", "size":"25"},
+		{"name":"Auburn Park", "size":"50"},
+		{"name":"Dobson Playlot Park", "size":"25"},
+		{"name":"Grand Crossing Park", "size":"350"},
+		{"name":"Hoard Playground Park", "size":"125"},
+		{"name":"Lyle Park", "size":"25"},
+		{"name":"Meyering Playground Park", "size":"150"},
+		{"name":"Park No. 527", "size":"25"},
+		{"name":"Periwinkle Playlot Park", "size":"50"},
+		{"name":"Railroad Junction Playlot Park", "size":"25"}]}
+		
+		
+	,{"name":"North Lawndale", "crimes":"3067",
+	"children": [			
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"},
+		{"name":"", "size":"50"}]}
+		
+		
+]}
